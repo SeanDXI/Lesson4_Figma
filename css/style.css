@@ -1,0 +1,13 @@
+@import "null.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body{font-family: "lato", sans-serif; font-size: 16px;color: #424551; font-weight: 400; line-height: 1.6;}
+
+.text{font-family: "lato", sans-serif; font-size: 20px;color: #1e212c; font-weight: 700; line-height: 1.5;}
+
+.title{font-family: "lato", sans-serif; font-size: 46px;color: #1e212c; font-weight: 900; line-height: 1.3;}
+
+.list{text-indent: 35px;}
+
+p{text-indent: 60px}
